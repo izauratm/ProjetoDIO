@@ -55,7 +55,7 @@ I challenged myself a bit more and created an HTML page where the user can simul
 * Izaura TM - responsável pelo projeto.
 
 ## 🔣Visualização / Prewiew
-- Abrindo o Chat / Opening the chat
+- Abrindo o Chat Copilot / Opening the Chat Copilot
   
 ![abrindochat](https://github.com/user-attachments/assets/b95771cb-cc18-4448-bd0a-d7cc5cea2e9a)
 
@@ -63,11 +63,11 @@ I challenged myself a bit more and created an HTML page where the user can simul
   
  ![criandoarquivo](https://github.com/user-attachments/assets/2a160135-fe21-499e-bf75-c5939cc38a08)
 
-- Criando o código / Creating the code
+- Perguntando ao Copilot a criaçao do código / Asking Copilot about code creation
   
 ![criacaocodigo](https://github.com/user-attachments/assets/65d6c96c-e3cd-434e-a3cb-0a059e843f8a)
 
-- Resposta do código / Code response
+- Resposta do Copilot / Copilot response
   
  ![respostacodigo](https://github.com/user-attachments/assets/91713ed8-592e-4c5d-a233-45e239853245)
 
