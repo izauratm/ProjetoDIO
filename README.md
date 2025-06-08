@@ -10,7 +10,7 @@ O objetivo do desafio, após conclusão do Curso GitHub Coplit da DIO (https://w
 
 📝Com o auxílio do GitHub Copilot como assistente de codificação, exploramos o impacto da inteligência artificial no desenvolvimento de software, aproveitando sugestões automáticas de código para aumentar a produtividade e otimizar o processo de criação. A implementação se baseia em expressões regulares para validar corretamente os números de cartão, seguindo boas práticas de programação para garantir precisão e eficiência.
 Me desafiei um pouco mais e criei uma página html onde o usuário pode simular uma compra parcelada em até 5 vezes com juros a partir da 4ª parcela ou escolher pagar no Pix com desconto.
-## 👩‍💻Challenge Description
+## 👩‍💻Challenge Description DIO:
 The goal of the challenge, upon completing the GitHub Copilot course by DIO (https://www.dio.me), is to develop an efficient application to identify the credit card brand—such as Visa, MasterCard, and others—based on the card number entered into the system.
 
 📝 With the assistance of GitHub Copilot as a coding assistant, we explore the impact of artificial intelligence in software development, leveraging automatic code suggestions to boost productivity and optimize the creation process. The implementation relies on regular expressions to correctly validate card numbers, following best programming practices to ensure accuracy and efficiency.
@@ -26,13 +26,14 @@ I challenged myself a bit more and created an HTML page where the user can simul
 - Document technical reasoning and decisions clearly and in an organized manner;
 - Use GitHub as a platform for version control and showcasing work.
 
-## 👩‍🎓Aprendizagem
+## 👩‍🎓Aprendizagem:
 - Conhecendo o GitHub Copilot: Aumentando sua Produtividade na Programação
 - O que é GitHub Copilot?
 - Configurando e Usando GitHub Copilot
 - Bases do Prompt Engineering para o GitHub Copilot
 - Copilot Chat: Como utilizar?
 - Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
+  
 ## 👩‍🎓Learning Topics:
 - Getting to Know GitHub Copilot: Boosting Your Productivity in Programming
 - What is GitHub Copilot?
@@ -49,17 +50,15 @@ I challenged myself a bit more and created an HTML page where the user can simul
 - CSS
 - Bootstrap
   
-## ✍️ Desenvolvedor
+## ✍️ Desenvolvedor:
 * Izaura TM - responsável pelo projeto.
-## ✍️ Developer
+## ✍️ Developer:
 * Izaura TM - responsável pelo projeto.
 
  ## 👍 Contribuições
-
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas. 
 
 ## 👍 Contributions
-
 Contributions are welcome! Feel free to open a pull request or report issues.
 
 ## 🔣Visualização / Prewiew
