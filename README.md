@@ -4,6 +4,7 @@ Criação de um validador de bandeiras de Cartão de Crédito com o GitHub Copil
 # ProjetoDIO ![dio](https://github.com/user-attachments/assets/0a09c647-fb03-476c-b6f2-4e77ab904d3d)
 
 Creation of a credit card brand validator using GitHub Copilot.
+
 ## 👩‍💻Descrição do Desafio DIO:
 O objetivo do desafio, após conclusão do Curso GitHub Coplit da DIO (https://www.dio.me) é desenvolver uma aplicação eficiente para identificar a bandeira de um cartão de crédito, como Visa, MasterCard e outras bandeiras, a partir do número do cartão inserido no sistema. 
 
@@ -39,20 +40,27 @@ I challenged myself a bit more and created an HTML page where the user can simul
 - Fundamentals of Prompt Engineering for GitHub Copilot
 - Copilot Chat: How to Use It?
 - Creating a Credit Card Brand Validator with GitHub Copilot
-- 
-## ⚙️Tecnologias
+  
+## ⚙️Tecnologias / Technologies
 - Visual Studio Code
 - JavaScript
 - GitHub Copilot
-## ⚙️Technologies
-- Visual Studio Code
-- JavaScript
-- GitHub Coplit
-- 
-## ✍️Desenvolvedor
+- HTML
+- CSS
+- Bootstrap
+  
+## ✍️ Desenvolvedor
 * Izaura TM - responsável pelo projeto.
-## ✍️Developer
+## ✍️ Developer
 * Izaura TM - responsável pelo projeto.
+
+ ## 👍 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas. 
+
+## 👍 Contributions
+
+Contributions are welcome! Feel free to open a pull request or report issues.
 
 ## 🔣Visualização / Prewiew
 - Abrindo o Chat Copilot / Opening the Chat Copilot
