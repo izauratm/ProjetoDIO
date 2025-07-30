@@ -1,0 +1,32 @@
+body {
+    background-color: #bed0d8;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  #pixpanel, #creditpanel {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    border-width: 10px;
+  }
+ 
+#pixPanel {
+    background-color: #d7e3ee; /*altera cor fundo dessa seção*/
+}
+
+#creditPanel {
+    background-color: #d7e3ee;  
+}
+
+.input-group-text img {
+    height: 50px !important;
+    width: auto;
+    max-height: 50px;
+    max-width: 60px;
+    object-fit: contain;
+    margin-right: 2px;
+    vertical-align: middle;
+}
