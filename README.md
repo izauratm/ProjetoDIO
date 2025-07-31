@@ -4,12 +4,13 @@
 # ProjetoDIO ![dio](https://github.com/user-attachments/assets/243b3699-6705-4227-8c79-11c1f499549c)
 Creation of a credit card brand validator using GitHub Copilot.
 
-## 👩‍💻Descrição do Desafio DIO:
+## 📋Descrição do Desafio DIO:
 O objetivo do desafio, após conclusão do Curso GitHub Coplit da DIO www.dio.me é desenvolver uma aplicação eficiente para identificar a bandeira de um cartão de crédito, como Visa, MasterCard e outras bandeiras, a partir do número do cartão inserido no sistema. 
 
 📝Com o auxílio do GitHub Copilot como assistente de codificação, exploramos o impacto da inteligência artificial no desenvolvimento de software, aproveitando sugestões automáticas de código para aumentar a produtividade e otimizar o processo de criação. A implementação se baseia em expressões regulares para validar corretamente os números de cartão, seguindo boas práticas de programação para garantir precisão e eficiência.
 Me desafiei um pouco mais e criei uma página html onde o usuário pode simular uma compra parcelada em até 5 vezes com juros a partir da 4ª parcela ou escolher pagar no Pix com desconto.
-## 👩‍💻Challenge Description DIO:
+
+## 📋Challenge Description DIO:
 The goal of the challenge, upon completing the GitHub Copilot course by DIO www.dio.me, is to develop an efficient application to identify the credit card brand—such as Visa, MasterCard, and others—based on the card number entered into the system.
 
 📝 With the assistance of GitHub Copilot as a coding assistant, we explore the impact of artificial intelligence in software development, leveraging automatic code suggestions to boost productivity and optimize the creation process. The implementation relies on regular expressions to correctly validate card numbers, following best programming practices to ensure accuracy and efficiency.
@@ -27,7 +28,7 @@ I challenged myself a bit more and created an HTML page where the user can simul
 - Document technical reasoning and decisions clearly and in an organized manner;
 - Use GitHub as a platform for version control and showcasing work.
 
-## 👩‍🎓Aprendizagem:
+## 🧩Aprendizagem:
 - Conhecendo o GitHub Copilot: Aumentando sua Produtividade na Programação
 - O que é GitHub Copilot?
 - Configurando e Usando GitHub Copilot
@@ -35,7 +36,7 @@ I challenged myself a bit more and created an HTML page where the user can simul
 - Copilot Chat: Como utilizar?
 - Criando um Validador de Bandeiras de Cartão de Crédito com o GitHub Copilot
   
-## 👩‍🎓Learning Topics:
+## 🧩Learning Topics:
 - Getting to Know GitHub Copilot: Boosting Your Productivity in Programming
 - What is GitHub Copilot?
 - Configuring and Using GitHub Copilot
